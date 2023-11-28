@@ -46,7 +46,11 @@
         {
           "type": "link",
           "text": "Linktext",
-          "url": "URL"
+          "url": "https://youtu.be/KuEGSUED_Vo?feature=shared"
+        },
+        {
+          "type": "image",
+          "content": "https://i1.sndcdn.com/artworks-TxSa6wrxRAgL32fP-BvGtDw-t500x500.jpg"
         }
       ]
     }
