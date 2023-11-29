@@ -1,0 +1,33 @@
+{
+  "1": [
+    {
+      "school_id": 2,
+      "group_id": 4,
+      "tag": 1,
+      "stunde": 1,
+      "fach": "Deutsch",
+      "lehrer": "Deyhle",
+      "raum": "R219"
+    },
+    {
+      "school_id": 2,
+      "group_id": 2,
+      "tag": 1,
+      "stunde": 2,
+      "fach": "Latein",
+      "lehrer": "Deyhle",
+      "raum": "R219"
+    }
+  ],
+  "2": [
+    {
+      "school_id": 2,
+      "group_id": 5,
+      "tag": 2,
+      "stunde": 3,
+      "fach": "Mathematik",
+      "lehrer": "Hafner",
+      "raum": "R219"
+    }
+  ]
+}
