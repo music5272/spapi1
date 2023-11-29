@@ -47,6 +47,10 @@
           "type": "link",
           "text": "Linktext",
           "url": "URL"
+        },
+        {
+          "type": "poll",
+          "id": "1"
         }
       ]
     }
