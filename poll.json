@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": 1,
+    "question": "Welche Plätzchen mögt ihr am liebsten?",
+    "poll_end": "2024-11-28 11:30:20",
+    "art": 1,
+    "school_id": 2
+  },
+  "options": [
+    {
+      "id": 1,
+      "poll_id": 1,
+      "display": "Butterplätzchen"
+    },
+    {
+      "id": 2,
+      "poll_id": 1,
+      "display": "Zimtsterne"
+    }
+  ]
+}
